@@ -130,3 +130,4 @@ $RECYCLE.BIN/
 # WebContent/META-INF/ 폴더이하 모든 파일
 WebContent/META-INF/
 
+/build/
